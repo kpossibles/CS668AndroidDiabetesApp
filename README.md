@@ -1,4 +1,4 @@
-#CS 658: Introduction to Android Programming - Group Project
+# CS 658: Introduction to Android Programming - Group Project
 
 Semester project for CS658 at UWM in Summer 2018.
 
